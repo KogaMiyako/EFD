@@ -1,0 +1,12 @@
+__pycache__/
+checkpoints/
+data/
+logs/
+logs2/
+Enhance_Logs/
+*.md
+*.log
+*.sh
+
+cpexpres_bak/
+cpexpres/
